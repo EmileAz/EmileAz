@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmileAz
 - 👀 I’m interested in AI & Image Identification
-- 🌱 I’m currently learning C# netCore
+- 🌱 I’m currently learning C# netCore\Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <!---
